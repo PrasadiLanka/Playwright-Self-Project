@@ -1,2 +1,2 @@
 # Playwright-Self-Project
-All off self learned include in this.
+All of self learned include in this.
